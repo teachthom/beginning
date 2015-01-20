@@ -1,0 +1,2 @@
+# beginning
+first code repository
